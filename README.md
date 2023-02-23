@@ -1,6 +1,7 @@
 # Simple Twitter Style Social Media
 
-This is not a Twitter clone, but it is similar style.
+This is not a Twitter clone, but it is similar style. I followed the youtube video:
+https://www.youtube.com/watch?v=4xduSsxa5Os
 
 ### Technologies:
 
